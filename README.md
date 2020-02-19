@@ -1,1 +1,1 @@
-This is Trisstans first git project!
+This is Tristans first git project!
